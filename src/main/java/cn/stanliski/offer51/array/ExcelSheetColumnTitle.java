@@ -10,7 +10,6 @@ package cn.stanliski.offer51.array;
 public class ExcelSheetColumnTitle {
 
 	public String convertToTitle(int n) {
-		
 		String result = new String("");
 		if(n < 0)
 			return result;
